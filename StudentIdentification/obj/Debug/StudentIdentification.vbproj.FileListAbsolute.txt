@@ -1,0 +1,31 @@
+C:\Users\hanna\OneDrive\Dokumen\Visual Studio 2013\Projects\StudentIdentification\StudentIdentification\bin\Debug\StudentIdentification.exe.config
+C:\Users\hanna\OneDrive\Dokumen\Visual Studio 2013\Projects\StudentIdentification\StudentIdentification\bin\Debug\StudentIdentification.exe
+C:\Users\hanna\OneDrive\Dokumen\Visual Studio 2013\Projects\StudentIdentification\StudentIdentification\bin\Debug\StudentIdentification.pdb
+C:\Users\hanna\OneDrive\Dokumen\Visual Studio 2013\Projects\StudentIdentification\StudentIdentification\bin\Debug\StudentIdentification.xml
+C:\Users\hanna\OneDrive\Dokumen\Visual Studio 2013\Projects\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.vbprojResolveAssemblyReference.cache
+C:\Users\hanna\OneDrive\Dokumen\Visual Studio 2013\Projects\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.Dashboard.resources
+C:\Users\hanna\OneDrive\Dokumen\Visual Studio 2013\Projects\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.Resources.resources
+C:\Users\hanna\OneDrive\Dokumen\Visual Studio 2013\Projects\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.vbproj.GenerateResource.Cache
+C:\Users\hanna\OneDrive\Dokumen\Visual Studio 2013\Projects\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.exe
+C:\Users\hanna\OneDrive\Dokumen\Visual Studio 2013\Projects\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.xml
+C:\Users\hanna\OneDrive\Dokumen\Visual Studio 2013\Projects\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.pdb
+C:\Users\hanna\OneDrive\Dokumen\Visual Studio 2013\Projects\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.UpdateStudent.resources
+C:\Users\hanna\OneDrive\Dokumen\Visual Studio 2013\Projects\StudentIdentification\StudentIdentification\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\hanna\OneDrive\Dokumen\Visual Studio 2013\Projects\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.ListOfStudents.resources
+C:\Users\hanna\OneDrive\Dokumen\Visual Studio 2013\Projects\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.ScanQRCode.resources
+C:\Users\hanna\OneDrive\Dokumen\Visual Studio 2013\Projects\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.AddStudentvb.resources
+C:\Users\Hilary Poralan\Desktop\StudentIdentification\StudentIdentification\bin\Debug\StudentIdentification.exe.config
+C:\Users\Hilary Poralan\Desktop\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.exe
+C:\Users\Hilary Poralan\Desktop\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.xml
+C:\Users\Hilary Poralan\Desktop\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.pdb
+C:\Users\Hilary Poralan\Desktop\StudentIdentification\StudentIdentification\bin\Debug\StudentIdentification.exe
+C:\Users\Hilary Poralan\Desktop\StudentIdentification\StudentIdentification\bin\Debug\StudentIdentification.pdb
+C:\Users\Hilary Poralan\Desktop\StudentIdentification\StudentIdentification\bin\Debug\StudentIdentification.xml
+C:\Users\Hilary Poralan\Desktop\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.vbprojResolveAssemblyReference.cache
+C:\Users\Hilary Poralan\Desktop\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.AddStudentvb.resources
+C:\Users\Hilary Poralan\Desktop\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.Dashboard.resources
+C:\Users\Hilary Poralan\Desktop\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.ListOfStudents.resources
+C:\Users\Hilary Poralan\Desktop\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.Resources.resources
+C:\Users\Hilary Poralan\Desktop\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.UpdateStudent.resources
+C:\Users\Hilary Poralan\Desktop\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.ScanQRCode.resources
+C:\Users\Hilary Poralan\Desktop\StudentIdentification\StudentIdentification\obj\Debug\StudentIdentification.vbproj.GenerateResource.Cache
